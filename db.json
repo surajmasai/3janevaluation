@@ -1,0 +1,46 @@
+{
+  "recipe": [
+    {
+      "title": "rice",
+      "ingredients": "oiwen",
+      "timetocook": "2pm",
+      "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
+      "id": 1
+    },
+    {
+      "title": "rice",
+      "ingredients": "rice",
+      "timetocook": "2pm",
+      "image": "https://media.istockphoto.com/photos/cooked-rice-picture-id491090528?k=20&m=491090528&s=612x612&w=0&h=oKwbkVWhU_17ZBhB4v3SKOTGT85nmi2YS7KbPPa-x8o=",
+      "id": 2
+    },
+    {
+      "title": "burger",
+      "ingredients": "bread, onion, tomato",
+      "timetocook": "4pm",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxAJcSQRs2u2vkyS5GoKLm66Op0CqWt0rjg&usqp=CAU",
+      "id": 3
+    },
+    {
+      "title": "maggi",
+      "ingredients": "maggi, onion, tomato",
+      "timetocook": "4pm",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMIPLo3nKUf2vov2ku0tRcJq5qEI42iMq-Q&usqp=CAU",
+      "id": 4
+    },
+    {
+      "title": "fish",
+      "ingredients": "fish onion, tomato",
+      "timetocook": "4pm",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZ3ZOah8ngfrECbPdGo3cOowfNY6y4LUUHg&usqp=CAU",
+      "id": 5
+    },
+    {
+      "title": "freanch fry",
+      "ingredients": "potato, oil",
+      "timetocook": "8am",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDXQSfMIpZf_4WULoLP-GukstEcDk_gFifQ&usqp=CAU",
+      "id": 6
+    }
+  ]
+}
